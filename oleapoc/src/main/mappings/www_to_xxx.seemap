@@ -1,0 +1,13 @@
+(:
+www_to_xxx.seemap
+created at 14 Feb 2023 by f.rosli
+:)
+
+import schema "http://www.seeburger.com/oleapoc/www" at "www.seexsd" as source;
+import schema "http://www.seeburger.com/oleapoc/xxx" at "xxx.seexsd" as target;
+
+
+
+xxx <- /www { 
+  
+}
