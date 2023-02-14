@@ -1,6 +1,6 @@
 (:
 www_to_xxx.seemap
-created at 14 Feb 2023 by f.rosli
+created at 14 Feb 2023 by f.rosli add 22
 :)
 
 import schema "http://www.seeburger.com/oleapoc/www" at "www.seexsd" as source;
